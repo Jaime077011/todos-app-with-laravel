@@ -1,7 +1,7 @@
 # todos-app-with-laravel
 simple Todos app with Authentication Supports Laravel 9.0.
 <hr>
-#Screenshots
+<h1>Screenshots</h1>
 <hr>
 ![Screenshot from 2023-02-26 22-03-20](https://user-images.githubusercontent.com/101170188/221436243-2848c3a9-ed77-4507-9300-a59e16c0dc3d.png)
 ![Screenshot from 2023-02-26 22-03-40](https://user-images.githubusercontent.com/101170188/221436244-801bfe70-1a11-4b70-b657-e8e1100022c7.png)
